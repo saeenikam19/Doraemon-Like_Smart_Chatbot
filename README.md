@@ -32,7 +32,7 @@ Designed for classrooms and home learning environments where screen-free interac
 
 Clone the repository
 
-    git clone https://github.com/saeenikam19/doraemon_smart_chatbot.git
+    git clone https://github.com/saeenikam19/Doraemon-Like_Smart_Chatbot.git
 
 
 Navigate to the project directory
