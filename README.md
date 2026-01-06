@@ -27,3 +27,29 @@ The main goal of this project is to support student learning while minimizing mo
 ## Use Case
 
 Designed for classrooms and home learning environments where screen-free interaction is preferred.
+
+## Steps to Run
+
+Clone the repository
+
+    git clone https://github.com/your-username/doraemon-smart-chatbot.git
+
+
+Navigate to the project directory
+
+    cd doraemon-smart-chatbot
+
+
+Install required dependencies
+
+    pip install -r requirements.txt
+
+
+Connect microphone and projector to the system
+
+    Run the chatbot
+    
+    python main.py
+
+
+Speak voice commands to interact with the chatbot
