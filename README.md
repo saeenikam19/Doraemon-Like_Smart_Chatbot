@@ -47,7 +47,7 @@ Install required dependencies
 
 Connect microphone and projector to the system
 
-    Run the chatbot
+  Run the chatbot
     
     python main.py
 
